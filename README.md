@@ -1,4 +1,3 @@
-# AI Intern Assignment — Submission
 
 All four questions have been completed. The top three scores will be considered.
 
